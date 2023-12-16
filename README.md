@@ -50,5 +50,8 @@ void loop() {
 3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT11** 
 ## Resultados
 Cuando haya funcionado, se podrán observar los valores dentro del monitor serial como se muestra en la siguente imagen.
-![]()
+![](https://github.com/AbrahamCH1/Pr-ctica-No.1-ESP32-con-DHT11/blob/main/Captura%20de%20pantalla%20(292).png?raw=true)
 
+# CRÉDITOS
+Desarrollado por Ing. Abraham Contreras Herrera
+[GITHUB](https://github.com/AbrahamCH1)
