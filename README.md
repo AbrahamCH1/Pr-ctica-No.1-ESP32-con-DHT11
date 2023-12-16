@@ -43,7 +43,7 @@ void loop() {
 ![](https://github.com/AbrahamCH1/Pr-ctica-No.1-ESP32-con-DHT11/blob/main/Captura%20de%20pantalla%20(290).png?raw=true)
 
 3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
-![]()
+![](https://github.com/AbrahamCH1/Pr-ctica-No.1-ESP32-con-DHT11/blob/main/Captura%20de%20pantalla%20(291).png?raw=true)
 ### INSTRUCCIONES DE OPERACIÓN
 1. Iniciar simulador.
 2. Visualizar los datos en el monitor serial.
